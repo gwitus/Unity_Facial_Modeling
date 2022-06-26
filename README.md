@@ -8,7 +8,7 @@
 
 #Algumas observações:
   
-  - Foi utilizao POO;
+  - Foi utilizado POO;
   - Todos as funções foram feitas utilizando as bibliotecas do Unity, por exemplo, ao invés de usar um HttpClient foi utilizado o UnityWebRequest;
   - O app foi modelado em Unity, utilizando a switch 2D core;
 
