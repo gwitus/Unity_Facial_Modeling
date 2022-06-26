@@ -1,6 +1,6 @@
 # Unity_2D_Facial.Core
 
-    - O presente repositório contém um aplicativo mobile modelado em Unity (APK disponibilizado), cuja principal objetivo é direcionar funções objetivas. 
+   O presente repositório contém um aplicativo mobile modelado em Unity (APK disponibilizado), cuja principal objetivo é direcionar funções objetivas. 
     
     - A primeira função é pegar uma imagem picture através do Raw Image no Unity, cada frame que é capturado e se não for utilizado é destruido em uma função C#;
     - A segunda função é pegar essa imagem e enviar para um serviço feito em Python, que utilizando OPENCV irá realizar o reconhecimento facial de qualquer rosto que se oponha a camera;
