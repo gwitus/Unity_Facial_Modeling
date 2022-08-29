@@ -103,7 +103,7 @@ public class chamada_camera : MonoBehaviour
                 Titulo.text = NAME.ToUpper() + " BOA AULA!";
                 StartCoroutine (update_sheet("http://" + IP + "/api_presenca/", CPF));    
             }else {
-                Task.Delay(3000).Wait();
+                Task.Delay(5000).Wait();
                 take_photo();
             }  
         } 
